@@ -12,8 +12,8 @@ export class TwitchBot {
                 secure: true
             },
             identity: {
-                username: bot_username,
-                password: oauth_token
+                username: MAJORDOMO_SAVAGE,
+                password: qazseQAZSE1234!@#$
             },
             channels: this.channels
         });
